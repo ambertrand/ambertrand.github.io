@@ -4,12 +4,20 @@
 }
 
 body {
-    background-image: url(https://images.pexels.com/photos/242236/pexels-photo-242236.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-color: #076bde;
     margin: 0, auto;
 }
 
+h1 {
+    color: #000000;
+}
+
+a.nav-link {
+    color: #000000;
+}
+
 h2 {
-    color: #4179e1;
+    color: #076bde;
 }
 
 h3 {
