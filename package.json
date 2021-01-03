@@ -40,5 +40,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambertrand/ambertrand.github.io.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ambertrand/ambertrand.github.io/issues"
+  },
+  "homepage": "https://ambertrand.github.io"
 }
